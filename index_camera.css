@@ -1,0 +1,115 @@
+.map{
+	
+}
+
+#imgMap{
+	width : 800px;
+	height : 800px;
+}
+
+.imgCamera{
+	width: 20px;
+	height: 20px;
+}
+
+.map_img{
+	margin: 0 auto;
+	position: relative;
+	width : 800px;
+	height : 800px;
+}
+
+#cameras{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.camera{
+	position: absolute;
+}
+
+#c01{
+	top: 310px;
+	left: 430px;
+}
+
+#c02{
+	top: 390px;
+	left: 490px;
+}
+
+#c03{
+	top: 380px;
+	left: 460px;
+}
+
+#c04{
+	top: 430px;
+	left: 530px;
+}
+
+#c05{
+	top: 505px;
+	left: 400px;
+}
+
+#c06{
+	top: 475px;
+	left: 350px;
+}
+
+#c07{
+	top: 435px;
+	left: 390px;
+}
+
+#c08{
+	top: 420px;
+	left: 400px;
+}
+
+#c09{
+	top: 350px;
+	left: 320px;
+}
+
+#c10{
+	top: 350px;
+	left: 360px;
+}
+
+#c11{
+	top: 540px;
+	left: 360px;
+}
+
+#c12{
+	top: 310px;
+	left: 490px;
+}
+
+#c13{
+	top: 540px;
+	left: 450px;
+}
+
+#c14{
+	top: 610px;
+	left: 400px;
+}
+
+#c15{
+	top: 590px;
+	left: 370px;
+}
+
+#c16{
+	top: 290px;
+	left: 460px;
+}
+
+#c17{
+	top: 550px;
+	left: 350px;
+}
